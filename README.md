@@ -6,6 +6,7 @@
     - Twitter: https://twitter.com/KrispyDevv
     - Linkedin: https://www.linkedin.com/in/nicolycrispi
     - Instagram: https://www.instagram.com/nicolycrispi
+    - Email: nicolycrispi@gmail.com
 
 <!---
 nicolycrispi/nicolycrispi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
