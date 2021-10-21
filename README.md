@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolycrispi
 - 👀 I’m interested in front-end and mobile development
-- 🌱 I’m currently revising HTML and CSS and learning JS
+- 🌱 I’m currently learning Python. I know basic Js and agile.
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me:
     - Twitter: https://twitter.com/KrispyDevv
