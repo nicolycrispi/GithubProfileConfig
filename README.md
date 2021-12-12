@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python. I know basic Js and agile.
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me:
-    - Twitter: https://twitter.com/KrispyDevv
+    - Twitter: https://twitter.com/Krispy_Dev
     - Linkedin: https://www.linkedin.com/in/nicolycrispi
     - Instagram: https://www.instagram.com/nicolycrispi
     - Email: nicolycrispi@gmail.com
