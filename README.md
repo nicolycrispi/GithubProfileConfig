@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolycrispi
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently working with Swift
+- 🌱 I’m currently working with Swift, SwiftUi and UIKit
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me:
     - Twitter: https://twitter.com/Krispy_Dev
