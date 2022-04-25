@@ -6,7 +6,7 @@
     - Twitter: https://twitter.com/Krispy_Dev
     - Linkedin: https://www.linkedin.com/in/nicolycrispi
     - Instagram: https://www.instagram.com/nicolycrispi
-    - Email: nicoly.crispi@cifraclub.com
+    - Email: nicoly.crispi@studiosol.com.br
 
 <!---
 nicolycrispi/nicolycrispi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
